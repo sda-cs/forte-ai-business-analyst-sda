@@ -153,27 +153,22 @@ Kossymzhanova Dana
 ## Скриншоты приложения
 
 ![Interface](screenshots/interface.png)
-
 Это стартовый экран приложения: чат с агентом и область для отображения результатов.
 
 
 ![Dialog](screenshots/dialog.png)
-
 Пример того, как AI-ассистент ведёт разговор, задаёт вопросы и уточняет требования.
 
 
 ![JSON](screenshots/json.png)
-
 Структурированный JSON, который генерируется после завершения диалога.
 
 
 ![BRD](screenshots/brd.png)
-
 Готовый Business Requirements Document, который формируется автоматически.
 
 
 ![Mermaid](screenshots/mermaid.png)
-
 Автоматически построенная диаграмма бизнес-процесса.
 
 
