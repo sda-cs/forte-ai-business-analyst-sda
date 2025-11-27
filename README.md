@@ -152,18 +152,12 @@ Kossymzhanova Dana
 
 ## Скриншоты приложения
 
-## Главный интерфейс
 ![Interface](screenshots/interface.png)
 
-## Диалог с агентом
 ![Dialog](screenshots/dialog.png)
 
-## JSON требований
 ![JSON](screenshots/json.png)
 
-## BRD документ
 ![BRD](screenshots/brd.png)
 
-## Mermaid диаграмма
 ![Mermaid](screenshots/mermaid.png)
-
