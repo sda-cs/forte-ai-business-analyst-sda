@@ -109,9 +109,6 @@ pip install -r requirements.txt
 streamlit run app.py
 
 
-Демонстрация
-
-Видео-демо (будет добавлено)
 
 Используемые технологии:
 
